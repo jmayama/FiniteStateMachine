@@ -1,0 +1,11 @@
+F:\Teaching\Projects\LectureProjects\Week 3 - Finite State Machines in AI\Temp\bin\Debug\Assembly-CSharp.dll
+F:\Teaching\Projects\LectureProjects\Week 3 - Finite State Machines in AI\Temp\bin\Debug\Assembly-CSharp.pdb
+F:\Teaching\Projects\LectureProjects\Week 3 - Finite State Machines in AI\Temp\bin\Debug\UnityEditor.dll
+F:\Teaching\Projects\LectureProjects\Week 3 - Finite State Machines in AI\Temp\bin\Debug\UnityEngine.dll
+F:\Teaching\Projects\LectureProjects\Week 3 - Finite State Machines in AI\Temp\bin\Debug\Mono.Cecil.dll
+F:\Teaching\Projects\LectureProjects\Week 3 - Finite State Machines in AI\Temp\bin\Debug\nunit.framework.dll
+F:\Teaching\Projects\LectureProjects\Week 3 - Finite State Machines in AI\Temp\bin\Debug\Unity.DataContract.dll
+F:\Teaching\Projects\LectureProjects\Week 3 - Finite State Machines in AI\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+F:\Teaching\Projects\LectureProjects\Week 3 - Finite State Machines in AI\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+F:\Teaching\Projects\LectureProjects\Week 3 - Finite State Machines in AI\obj\Debug\Assembly-CSharp.dll
+F:\Teaching\Projects\LectureProjects\Week 3 - Finite State Machines in AI\obj\Debug\Assembly-CSharp.pdb
